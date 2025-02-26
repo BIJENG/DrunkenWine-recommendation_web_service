@@ -24,7 +24,7 @@
 
 <div class="login">
   <div class="login-header">
-    <h1>술주정</h1>
+    <h1>술주정1</h1>
   </div>
   <form action="/user/loginProcess" method="post" id="frmLogin">
     <div class="login-form">
